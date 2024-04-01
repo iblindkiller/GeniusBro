@@ -1,1 +1,1 @@
-# trexbot.xyz
+# Genius Bro - Discord Bot
